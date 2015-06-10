@@ -64,4 +64,6 @@ public class Page {
     public void setChoice2(Choice choice2) {
         mChoice2 = choice2;
     }
+
+
 }
